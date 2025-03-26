@@ -11,7 +11,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		9E82F8A62D90979A002B7ADD /* twerkDuo.riv in Resources */ = {isa = PBXBuildFile; fileRef = 9E82F8A52D90979A002B7ADD /* twerkDuo.riv */; };
+		9E39155F2D9308A300DDDB61 /* duotwerk_v05.riv in Resources */ = {isa = PBXBuildFile; fileRef = 9E39155E2D9308A300DDDB61 /* duotwerk_v05.riv */; };
 		D6A055DBE23C995A42701D3B /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		FAB0391172D44ABB907D0360 /* Concert One.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13DE7805504B42BC9BADBA65 /* Concert One.ttf */; };
 /* End PBXBuildFile section */
@@ -27,7 +27,7 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-CounterWithDuo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CounterWithDuo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = CounterWithDuo/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CounterWithDuo/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9E82F8A52D90979A002B7ADD /* twerkDuo.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = twerkDuo.riv; sourceTree = "<group>"; };
+		9E39155E2D9308A300DDDB61 /* duotwerk_v05.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = duotwerk_v05.riv; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -106,7 +106,7 @@
 		9E82F8A42D909776002B7ADD /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				9E82F8A52D90979A002B7ADD /* twerkDuo.riv */,
+				9E39155E2D9308A300DDDB61 /* duotwerk_v05.riv */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -181,9 +181,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				9E39155F2D9308A300DDDB61 /* duotwerk_v05.riv in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				D6A055DBE23C995A42701D3B /* PrivacyInfo.xcprivacy in Resources */,
-				9E82F8A62D90979A002B7ADD /* twerkDuo.riv in Resources */,
 				FAB0391172D44ABB907D0360 /* Concert One.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
